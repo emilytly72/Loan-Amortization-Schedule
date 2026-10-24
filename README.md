@@ -1,5 +1,6 @@
 # Loan-Amortization-Schedule
 ABOUT:
+
 A Java project that calculates loan payments and creates a monthly loan amortization schedule.
 The program asks the user to input the loan amount, the annual interest rate, and the repayment period in number of years.
 The program then calculates the monthly payment and displays how much goes toward interest and principal each month, as well as the remaining loan balance.
@@ -11,7 +12,9 @@ FEATURES:
 - Calculates and displays the total amount paid over the loan period
 
 REQUIREMENTS:
+
 Java Development Kit (JDK)
+
 Eclipse IDE (optional)
 
 HOW TO RUN:
