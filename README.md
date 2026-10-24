@@ -15,7 +15,8 @@ Java Development Kit (JDK)
 Eclipse IDE (optional)
 
 HOW TO RUN:
-\nEclipse
+
+Eclipse
 1. Download the repository by clicking Code -> Download ZIP
 2. Extract the ZIP file
 3. Open Eclipse
