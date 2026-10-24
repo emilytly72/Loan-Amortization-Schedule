@@ -28,3 +28,11 @@ Eclipse
 6. Open src -> loanamortizationschedule -> LoanAmortizationSchedule.java
 7. Right-click the file and select Run As -> Java Application
 8. Enter the requested loan information in the console
+
+Bash
+1. Open Command Prompt in the Loan_Amortization_Schedule folder
+2. Type javac -d out src/loanamortizationschedule/LoanAmortizationSchedule.java
+3. Enter
+4. Type java -cp out loanamortizationschedule.LoanAmortizationSchedule
+5. Enter
+6. Enter the requested loan information in the console
